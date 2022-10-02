@@ -29,3 +29,11 @@ This is a back-end application that I developed in order to create a e commerce 
 <section>
     <img alt="screenshot" src="./asset/screenshot.png" width=550px height=350px>
 </section>
+
+## Video URL
+
+https://www.youtube.com/watch?v=tWgsosAYhBs
+
+## Github URL
+
+https://github.com/haiderali1998/gen-ECOMMERCE13
